@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\g++.exe",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "regex": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "new": "cpp"
+    }
+}
